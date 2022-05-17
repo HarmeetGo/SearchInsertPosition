@@ -1,0 +1,12 @@
+C:\Users\91883\source\repos\LeetCode1\bin\Debug\net6.0\LeetCode1.deps.json
+C:\Users\91883\source\repos\LeetCode1\bin\Debug\net6.0\LeetCode1.dll
+C:\Users\91883\source\repos\LeetCode1\bin\Debug\net6.0\LeetCode1.pdb
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.csproj.AssemblyReference.cache
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.AssemblyInfoInputs.cache
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.AssemblyInfo.cs
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.csproj.CoreCompileInputs.cache
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.dll
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\refint\LeetCode1.dll
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\LeetCode1.pdb
+C:\Users\91883\source\repos\LeetCode1\obj\Debug\net6.0\ref\LeetCode1.dll
